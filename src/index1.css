@@ -1,0 +1,174 @@
+
+body{
+   background-color: #E5E7EB;
+}
+.side-bar{
+    background-image: linear-gradient(to right, blue , rgb(89, 45, 143));
+    height:700px;
+  
+  }
+  .side-bar h4{
+    color:white;
+    margin-top: -50px;
+    
+  }
+  .side-bar h5{
+    color:white;
+   
+    
+  }
+  .logo{
+    height:50px;
+    width:70px;
+    margin-top: 16%;
+    margin-right: 190px;
+  }
+  .main{
+    background-image: linear-gradient(to right, rgb(60, 177, 69) , rgb(20, 113, 189));
+    margin-left: -24px;
+    
+  }
+  .stud{
+    color:white;
+    text-align: start;
+    padding:15px;
+  
+  }
+  .image-1{
+    height:20px;
+    width:20px;
+    margin:3px;
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    background-color: white;
+    width: 93%;
+    margin: 5%;
+    border-radius: 10px;
+    
+  }
+  th{
+    font-size: 12px;
+    color:#6B7280
+  }
+  .enroll{
+    width:160px;
+  }
+  .dateofadd{
+    width:190px;
+  }
+  td,th {
+    border-bottom: 1px solid #E8EAED;
+    text-align: left;
+    padding: 20px;
+    
+  }
+
+ .form-add{
+  background-color: #9FA4AB;
+  height:700px;
+  padding: 50px;
+ }
+ .form-box{
+  background-color: white;
+  height:auto;
+  width:400px;
+  text-align: center;
+  padding: 40px;
+  margin-left: 35%;
+  margin-top: 40px;
+  border-radius: 10px;
+ 
+ }
+ .formdelete-box{
+  background-color: white;
+  height:auto;
+  width:500px;
+  text-align: center;
+  padding: 40px;
+  margin-left: 35%;
+  margin-top: 40px;
+  border-radius: 10px;
+ }
+ .form-box input{
+  margin-bottom: 15px;
+  width:250px;
+  height:40px;
+  padding: 10px;
+  border-radius: 5px;
+  border:1px solid #D9D9D9;
+
+ }
+ .form-box h5{
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 40px;
+ }
+ .submit-btn{
+  background-color: #22C55E;
+  width:250px;
+  height:30px;
+ color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+ }
+ .cancel-btn{
+  background-color: #C55D22;
+  width:250px;
+  height:30px;
+ color: white;
+ margin-top: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+ }
+ .yesbtn{
+  background-color: #22C55E;
+  width:200px;
+  height:30px;
+ color: white;
+  border-radius: 3px;
+  font-weight: bold;
+  border: none;
+ }
+.nobtn{
+  background-color: #C55D22;
+  width:200px;
+  height:30px;
+ color: white;
+ margin-top: 10px;
+  border-radius: 3px;
+  font-weight: bold;
+  border: none;
+  margin-left: 10px;
+}
+.text{
+  font-size: 25px;
+  float: left;
+  font-weight: bold;
+}
+.section{
+  margin-top: 50px;
+}
+#input-box{
+  background-color: white;
+  border: none;
+  width:250px;
+  height:30px;
+  border-radius: 5px;
+  padding:5px;
+}
+.add-btn{
+  background-color: #22C55E;
+  width:180px;
+  height:30px;
+ color: white;
+ text-decoration: none;
+ margin-left: 20px;
+  border-radius: 3px;
+  
+  border: none;
+}
